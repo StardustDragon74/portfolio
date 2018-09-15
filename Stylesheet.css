@@ -1,3 +1,17 @@
-h1 {
-  color: #c7feff;
+.navbar {
+  overflow: hidden;
+  backround-color: #333:
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+hi {
+  color: #c7eff;
 }
