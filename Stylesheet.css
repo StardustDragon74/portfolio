@@ -20,3 +20,9 @@ body {
 h1 {
   color:#00f783 ;
 }
+
+.navbar a: hover {
+  backround-color: #ddd;
+  color:black;
+}
+
