@@ -18,11 +18,18 @@ body {
 }
 
 h1 {
-  color:#17c423 ;
+  color ;
 }
 
 .navbar a:hover {
   backround-color: #ddd;
   color:green;
+.column {
+  width: 100px;
+  float: left;
+  padding: 10px;
+  height: 500px;
 }
-
+h2 {
+  color #0004ff ;
+}
