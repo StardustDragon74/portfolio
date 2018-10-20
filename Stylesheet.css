@@ -38,3 +38,8 @@ h2 {
   {
   background-image:url("https://github.com/StardustDragon74/portfolio/blob/gh-pages/Foto_el_drag%C3%B3n_alado_de_ra.jpg?raw=true")
   }
+  #slideshow {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    padding: 10px;
